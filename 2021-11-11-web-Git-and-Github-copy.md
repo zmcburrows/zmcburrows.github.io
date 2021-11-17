@@ -8,7 +8,7 @@ title:  "Journaling: Me and Git and Github"
 Now that you've learned a bit about Git and Github, reflect upon and answer the following questions.
 
 What is the difference between Git and Github?
-Git helps you track changes while Git lets you store and manage code and programs through repositories
+Git helps you track changes while Github lets you store and manage code and programs through repositories
 Why use Git?
 It helps you keep track of the changes made to files and makes it easier to go back to previous versions if you make a mistake
 Why use Github?
